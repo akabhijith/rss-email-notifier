@@ -1,0 +1,17 @@
+# Secrets
+.env
+seen.json
+
+# Python
+__pycache__/
+*.pyc
+.rssenv/
+env/
+venv/
+env.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.vscode/
+.idea/
